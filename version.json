@@ -1,13 +1,13 @@
 {
-  "latestCode": 26,
-  "latestName": "3.10",
-  "baseCode": 25,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.10/v25-to-v26.patch",
-  "patchSize": 1306746,
-  "patchSha256": "2fc2baec80018cf69bd83cb785d0159a7965dd84034b5a3ad1694c911f70ceb9",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.10/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.10/Party-Games.apk",
+  "latestCode": 27,
+  "latestName": "3.11",
+  "baseCode": 26,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.11/v26-to-v27.patch",
+  "patchSize": 1329485,
+  "patchSha256": "6718799c35d4b77513ea637f49bb2b04766caa2854a0295ac686081d03d7ef79",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.11/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.11/Party-Games.apk",
   "apkSize": 39838107,
-  "apkSha256": "87ef9d1c9b3d1ea156fff42a78942efe36f8a14475e728b4c41822ce177e2ebc",
-  "notes": "New character cards"
+  "apkSha256": "4ec9cc6f19a4870638c2817e5d1fd43cba9195d47737d90e63f7fe685da925b6",
+  "notes": "Card images re-cut tight to the frame - no shadow band"
 }
