@@ -1,13 +1,13 @@
 {
-  "latestCode": 28,
-  "latestName": "3.12",
-  "baseCode": 27,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.12/v27-to-v28.patch",
-  "patchSize": 895169,
-  "patchSha256": "299b0331c5d29d4555206694bd02f01e25aa91c8d8f6fe15d6cbbd17ef1a49ab",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.12/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.12/Party-Games.apk",
-  "apkSize": 39834011,
-  "apkSha256": "e8c9f1084e4d4f63def37aade3fa13a33bca1d4a020c308873307b4540d7e541",
-  "notes": "Name tile shadows no longer clipped at the sides"
+  "latestCode": 29,
+  "latestName": "3.13",
+  "baseCode": 28,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.13/v28-to-v29.patch",
+  "patchSize": 901046,
+  "patchSha256": "bb260656b466b288b0186d6728c96ab4a637f88e52a6dd7aa040ab1beda1aac9",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.13/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.13/Party-Games.apk",
+  "apkSize": 39838107,
+  "apkSha256": "e2bb9c2fa8ae43e07f58734f641dfab02261de69b6dacd0b08931795c10aab58",
+  "notes": "Pick lists show 4.5 names with a soft fade at the bottom"
 }
