@@ -1,13 +1,13 @@
 {
-  "latestCode": 38,
-  "latestName": "3.22",
-  "baseCode": 37,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.22/v37-to-v38.patch",
-  "patchSize": 991596,
-  "patchSha256": "64999c13b2b59e741e22c3f99eff8d538f8aa2d9cc00a51df960a35adc3dc394",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.22/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.22/Party-Games.apk",
-  "apkSize": 40105602,
-  "apkSha256": "5ea16521c8055b7b7a2997fe7ed38391530218405d176f88818c982bbbd219fe",
-  "notes": "New home screen"
+  "latestCode": 39,
+  "latestName": "3.23",
+  "baseCode": 38,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.23/v38-to-v39.patch",
+  "patchSize": 1280492,
+  "patchSha256": "fce776ef1295b35605801b9ae509b686732327508c1390a81dd2b22e90794a56",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.23/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.23/Party-Games.apk",
+  "apkSize": 40392767,
+  "apkSha256": "f51a3d383cbb469931bdce7c5c655215bea42966258b91de6410772d6565b36d",
+  "notes": "Home screen accuracy pass \u2014 icons and art now match the design"
 }
