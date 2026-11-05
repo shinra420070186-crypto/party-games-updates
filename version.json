@@ -1,13 +1,13 @@
 {
-  "latestCode": 36,
-  "latestName": "3.20",
-  "baseCode": 35,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.20/v35-to-v36.patch",
-  "patchSize": 1134447,
-  "patchSha256": "be8c56b7202dffea0d43a2ef1e36fe93a4817673627d5c4bcc2daa385ab84c85",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.20/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.20/Party-Games.apk",
+  "latestCode": 37,
+  "latestName": "3.21",
+  "baseCode": 36,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.21/v36-to-v37.patch",
+  "patchSize": 933533,
+  "patchSha256": "a16c9b050a5016c4fb25b0b50a799dd3b06a151901580dd2f4ff25805e4c1a96",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.21/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.21/Party-Games.apk",
   "apkSize": 40056314,
-  "apkSha256": "cc22f077a3f976b12ecd2c5e1aeb6e68eec06b105d1c4e6a6556af0b76ab9e80",
-  "notes": "New narrator: natural voice audio pack for the night and voting calls; deaths and results are read on screen"
+  "apkSha256": "231c1203884fa81120efbabf86751fef521010b1123701478b4aafc37efa3256",
+  "notes": "Night waiting is now just the night scene - nothing pops up until your turn; role name removed from under the reveal card (it's on the card)"
 }
