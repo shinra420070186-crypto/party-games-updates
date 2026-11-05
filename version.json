@@ -1,0 +1,13 @@
+{
+  "latestCode": 23,
+  "latestName": "3.7",
+  "baseCode": 22,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.7/v22-to-v23.patch",
+  "patchSize": 914607,
+  "patchSha256": "818633456946a5feb59896616987dbe3d3415f697b8c9f2d7fde7b6ac27f13ff",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.7/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.7/Party-Games.apk",
+  "apkSize": 40268187,
+  "apkSha256": "4479a571e5100b950c16d63ecac94aaf90d4d77e19425b0c42c64bed13c0b7b7",
+  "notes": "Corner-origin background transition test + in-app patch updater"
+}
