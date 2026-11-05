@@ -1,13 +1,13 @@
 {
-  "latestCode": 37,
-  "latestName": "3.21",
-  "baseCode": 36,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.21/v36-to-v37.patch",
-  "patchSize": 933533,
-  "patchSha256": "a16c9b050a5016c4fb25b0b50a799dd3b06a151901580dd2f4ff25805e4c1a96",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.21/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.21/Party-Games.apk",
-  "apkSize": 40056314,
-  "apkSha256": "231c1203884fa81120efbabf86751fef521010b1123701478b4aafc37efa3256",
-  "notes": "Night waiting is now just the night scene - nothing pops up until your turn; role name removed from under the reveal card (it's on the card)"
+  "latestCode": 38,
+  "latestName": "3.22",
+  "baseCode": 37,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.22/v37-to-v38.patch",
+  "patchSize": 991596,
+  "patchSha256": "64999c13b2b59e741e22c3f99eff8d538f8aa2d9cc00a51df960a35adc3dc394",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.22/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.22/Party-Games.apk",
+  "apkSize": 40105602,
+  "apkSha256": "5ea16521c8055b7b7a2997fe7ed38391530218405d176f88818c982bbbd219fe",
+  "notes": "New home screen"
 }
