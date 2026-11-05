@@ -1,13 +1,13 @@
 {
-  "latestCode": 29,
-  "latestName": "3.13",
-  "baseCode": 28,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.13/v28-to-v29.patch",
-  "patchSize": 901046,
-  "patchSha256": "bb260656b466b288b0186d6728c96ab4a637f88e52a6dd7aa040ab1beda1aac9",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.13/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.13/Party-Games.apk",
-  "apkSize": 39838107,
-  "apkSha256": "e2bb9c2fa8ae43e07f58734f641dfab02261de69b6dacd0b08931795c10aab58",
-  "notes": "Pick lists show 4.5 names with a soft fade at the bottom"
+  "latestCode": 30,
+  "latestName": "3.14",
+  "baseCode": 29,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.14/v29-to-v30.patch",
+  "patchSize": 911677,
+  "patchSha256": "9bc009343332b322006813ceaea60c9b2e81f0f572c2c266d6959fb3ee92d858",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.14/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.14/Party-Games.apk",
+  "apkSize": 39842203,
+  "apkSha256": "da8b7be43529ef43a3b0d0fb77ba9efb9a6ba3fbd88596767314d0fb63f37a48",
+  "notes": "Lobby settings moved behind an Edit button with a bloom opening"
 }
