@@ -1,13 +1,13 @@
 {
-  "latestCode": 35,
-  "latestName": "3.19",
-  "baseCode": 34,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.19/v34-to-v35.patch",
-  "patchSize": 933964,
-  "patchSha256": "8734879966d1c2f7db3493bbce2c2e4a5c251001086a7dce2263b92d29ffad19",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.19/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.19/Party-Games.apk",
-  "apkSize": 39858587,
-  "apkSha256": "141c6bc840f1db82776c35e9e9297bcfb9fe54f161f1da73d398026bed041012",
-  "notes": "Test-player bots fixed at the detective step; all phases audited"
+  "latestCode": 36,
+  "latestName": "3.20",
+  "baseCode": 35,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.20/v35-to-v36.patch",
+  "patchSize": 1134447,
+  "patchSha256": "be8c56b7202dffea0d43a2ef1e36fe93a4817673627d5c4bcc2daa385ab84c85",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.20/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.20/Party-Games.apk",
+  "apkSize": 40056314,
+  "apkSha256": "cc22f077a3f976b12ecd2c5e1aeb6e68eec06b105d1c4e6a6556af0b76ab9e80",
+  "notes": "New narrator: natural voice audio pack for the night and voting calls; deaths and results are read on screen"
 }
