@@ -1,13 +1,13 @@
 {
-  "latestCode": 33,
-  "latestName": "3.17",
-  "baseCode": 32,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.17/v32-to-v33.patch",
-  "patchSize": 933203,
-  "patchSha256": "7ff71c541ea70be01ff49e9835da068241abbba4f823c844ec9c7bc46bb4388e",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.17/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.17/Party-Games.apk",
-  "apkSize": 39854491,
-  "apkSha256": "3c885056819b476fb173c3cae7b30016a9038e3bce0384157d65785180afc839",
-  "notes": "New players set their name on first launch"
+  "latestCode": 34,
+  "latestName": "3.18",
+  "baseCode": 33,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.18/v33-to-v34.patch",
+  "patchSize": 923869,
+  "patchSha256": "29a2df970b901fb4b9a54af27e4d30a18f40b9adecca08b039a2abf906ec227f",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.18/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.18/Party-Games.apk",
+  "apkSize": 39858587,
+  "apkSha256": "dad02ff087b644c25fd59f118da5361cb5a4f6dae4801f5861c0105b2c4eb10b",
+  "notes": "Add test players to fill a room lobby"
 }
