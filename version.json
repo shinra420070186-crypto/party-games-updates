@@ -1,13 +1,13 @@
 {
-  "latestCode": 24,
-  "latestName": "3.8",
-  "baseCode": 23,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.8/v23-to-v24.patch",
-  "patchSize": 916040,
-  "patchSha256": "90956319dfcfb46a5979d97c9f03967b4df2d908efd6399bace5ecd308a04e3f",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.8/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.8/Party-Games.apk",
-  "apkSize": 40268187,
-  "apkSha256": "7d803279a53e414a9c0f178cfe59f2480dcc97d3e832144d6d220e19f7657c54",
-  "notes": "Auto-check for updates, top-center bloom, true fullscreen"
+  "latestCode": 25,
+  "latestName": "3.9",
+  "baseCode": 24,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.9/v24-to-v25.patch",
+  "patchSize": 914713,
+  "patchSha256": "e6d3f892f650c70cfea70d76eaf4bbfca8a528e825af65e518a781b6e6973732",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.9/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.9/Party-Games.apk",
+  "apkSize": 40272283,
+  "apkSha256": "3e6419599c13ad96bceff03599ffb9bf3809966d97972063e50fcaac137e9b1a",
+  "notes": "Smoother bloom (full frame rate), reveal button now appears on release"
 }
