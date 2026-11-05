@@ -1,13 +1,13 @@
 {
-  "latestCode": 32,
-  "latestName": "3.16",
-  "baseCode": 31,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.16/v31-to-v32.patch",
-  "patchSize": 924147,
-  "patchSha256": "c14e8e7bbf0b496de11e0164d8c765e9e073ad5081cfe5cb05d65929495faa14",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.16/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.16/Party-Games.apk",
-  "apkSize": 39850395,
-  "apkSha256": "297e9d5ed19dd0b87cb1fbade5b9d8205aaab7c49619da1754bd9f9020a7baf4",
-  "notes": "Wi-Fi popup redesigned; hotspot detection fixed"
+  "latestCode": 33,
+  "latestName": "3.17",
+  "baseCode": 32,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.17/v32-to-v33.patch",
+  "patchSize": 933203,
+  "patchSha256": "7ff71c541ea70be01ff49e9835da068241abbba4f823c844ec9c7bc46bb4388e",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.17/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.17/Party-Games.apk",
+  "apkSize": 39854491,
+  "apkSha256": "3c885056819b476fb173c3cae7b30016a9038e3bce0384157d65785180afc839",
+  "notes": "New players set their name on first launch"
 }
