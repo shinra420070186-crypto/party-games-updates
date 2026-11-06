@@ -1,13 +1,13 @@
 {
-  "latestCode": 43,
-  "latestName": "3.27",
-  "baseCode": 42,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.27/v42-to-v43.patch",
-  "patchSize": 1093327,
-  "patchSha256": "e556eb4b9d35124c9d2be0e2981e0160e9744eadb5a1b4ec897a9cde88d986de",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.27/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.27/Party-Games.apk",
+  "latestCode": 44,
+  "latestName": "3.28",
+  "baseCode": 43,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.28/v43-to-v44.patch",
+  "patchSize": 943246,
+  "patchSha256": "cd3ac79da6e41fd008cb2f68d4b33ecf99a4b595be35eef835c745d597f1f24a",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.28/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.28/Party-Games.apk",
   "apkSize": 40594696,
-  "apkSha256": "16a81af62d6d288251313618072cd1ae6ac7ed086db1f111085e50193fd7a50c",
-  "notes": "New: profile, avatars and room records"
+  "apkSha256": "72e5bc7fd0290e7c1c054b25b3d5f597de7572bac28326d090115743a8e7c9a0",
+  "notes": "Profile moved up; name now changes only in Profile"
 }
