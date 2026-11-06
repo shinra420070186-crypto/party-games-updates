@@ -1,13 +1,13 @@
 {
-  "latestCode": 45,
-  "latestName": "3.29",
-  "baseCode": 44,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.29/v44-to-v45.patch",
-  "patchSize": 1179993,
-  "patchSha256": "982d1f5ba72e0fcd3805231f1356f8c9f569dd1549a5a850fd869cabf816fe9f",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.29/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.29/Party-Games.apk",
-  "apkSize": 40803731,
-  "apkSha256": "2c28133c20d37963e381ab9afef4f3e55bccc1beada7d66dda49c442c187c0ab",
-  "notes": "Mafia menu: new night-glass card design"
+  "latestCode": 46,
+  "latestName": "3.30",
+  "baseCode": 45,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.30/v45-to-v46.patch",
+  "patchSize": 98349,
+  "patchSha256": "90b47736543e822db15c54a2411f719389c5b0e54b0a2dc20bdf2114335466b8",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.30/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.30/Party-Games.apk",
+  "apkSize": 40811923,
+  "apkSha256": "8d55f971d770b752723a0e861bc3f60b84344b92ce43965d15e3e897cdd900ba",
+  "notes": "Menu card: glassier panel with corner waves"
 }
