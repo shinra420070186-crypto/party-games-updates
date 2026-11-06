@@ -1,13 +1,13 @@
 {
-  "latestCode": 54,
-  "latestName": "3.38",
-  "baseCode": 53,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.38/v53-to-v54.patch",
-  "patchSize": 1455131,
-  "patchSha256": "42fb1ef7865bf577b2ff4b4e519a11facbaedaeb7d8d41c6349069bef5831a06",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.38/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.38/Party-Games.apk",
-  "apkSize": 41082472,
-  "apkSha256": "ca341c2377096e04bffab8963fadf8771aa8ee80b7ed3211015fb458da88997b",
-  "notes": "Mafia menu: buttons and mascot are the reference's own artwork"
+  "latestCode": 55,
+  "latestName": "3.39",
+  "baseCode": 54,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.39/v54-to-v55.patch",
+  "patchSize": 214586,
+  "patchSha256": "8178b35efcf8f5b13072c4727a62ca9f77324bf54cc0b008365ad43f732a9216",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.39/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.39/Party-Games.apk",
+  "apkSize": 41197160,
+  "apkSha256": "c23290565b5cc1d5f781574f14c582a158587811fb5311dd0da4c692f49e1b2d",
+  "notes": "Menu: stray lime line in the button gap removed"
 }
