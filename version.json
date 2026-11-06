@@ -1,13 +1,13 @@
 {
-  "latestCode": 49,
-  "latestName": "3.33",
-  "baseCode": 48,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.33/v48-to-v49.patch",
-  "patchSize": 1127532,
-  "patchSha256": "53374f31e27c2ec8502802621cd02a615d0ae9d323d2cf2c4d50bb55abbb6402",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.33/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.33/Party-Games.apk",
-  "apkSize": 40771176,
-  "apkSha256": "74e33453abf05056cddbb87b36c846f08ade05b6afae72c31b2c6ae10d8abbe4",
-  "notes": "Menu card: tighter shadows, sharper mascot"
+  "latestCode": 50,
+  "latestName": "3.34",
+  "baseCode": 49,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.34/v49-to-v50.patch",
+  "patchSize": 957154,
+  "patchSha256": "7843ea3b2ae1c60ede6a002179607ee9c8d74439e1d6aca2e72be271f6f633a3",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.34/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.34/Party-Games.apk",
+  "apkSize": 40754579,
+  "apkSha256": "86cb5a0dc4d13ee76a18fd01c1ec8e727076fcc7f7c44d4ed8f5f7e92d239a19",
+  "notes": "Menu buttons rebuilt native \u2014 clean edges, real shadows"
 }
