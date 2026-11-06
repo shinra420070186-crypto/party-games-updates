@@ -1,13 +1,13 @@
 {
-  "latestCode": 56,
-  "latestName": "3.40",
-  "baseCode": 55,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.40/v55-to-v56.patch",
-  "patchSize": 237355,
-  "patchSha256": "510499f711e331493552d3ead4f8fee9aec2d1019a909209ad020e734355533f",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.40/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.40/Party-Games.apk",
-  "apkSize": 41221736,
-  "apkSha256": "a670c7b7651d4d94715ee142ad1b409c3830ffb6b55778b49d44bd6323aba19a",
-  "notes": "Menu: bottom-right corner waves restored"
+  "latestCode": 57,
+  "latestName": "3.41",
+  "baseCode": 56,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.41/v56-to-v57.patch",
+  "patchSize": 1091518,
+  "patchSha256": "edb9e03b5227a7f89ad846b484fbad700c5473fb6a91deadb2c49327a894c0af",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.41/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.41/Party-Games.apk",
+  "apkSize": 41344823,
+  "apkSha256": "6e3aec337ffbae2c0412806199b434446706bbda27fb9f38ee77676b0c089c5f",
+  "notes": "All Mafia cards wear the menu card's design"
 }
