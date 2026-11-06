@@ -1,13 +1,13 @@
 {
-  "latestCode": 65,
-  "latestName": "3.49",
-  "baseCode": 64,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.49/v64-to-v65.patch",
-  "patchSize": 1402159,
-  "patchSha256": "0b68bcc1d1175e3098bb938eba220e44313aa76c4ac28468019caf2bdc4916ac",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.49/Party-Games.apk",
+  "latestCode": 66,
+  "latestName": "3.50",
+  "baseCode": 65,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.50/v65-to-v66.patch",
+  "patchSize": 1395527,
+  "patchSha256": "071206b8f04167a5522560774648423ee9b0a80e5fe94acc7234d5d7a6b8f6c2",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.50/Party-Games-v3.50.apk",
   "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.49/Party-Games.apk",
-  "apkSize": 42327725,
-  "apkSha256": "a64425bd6a98b234c2992ff0e54410369e5f6ff6cf03a2ff28981121c6865725",
-  "notes": "Menu copied from your picture: smooth logo, buttons, gaps, new offline line"
+  "apkSize": 42311341,
+  "apkSha256": "9cff7dbb934ceafb1926a22a384d6b6f88e094f0b3ad57f296153a5c1296f1b8",
+  "notes": "Back to the previous menu \u2014 only the logo fixed"
 }
