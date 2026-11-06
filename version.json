@@ -1,13 +1,13 @@
 {
-  "latestCode": 63,
-  "latestName": "3.47",
-  "baseCode": 62,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.47/v62-to-v63.patch",
-  "patchSize": 1104410,
-  "patchSha256": "fff15be008ee15394182c6b400ad372bb9671782003b1e51b25bb0226cb41452",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.47/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.47/Party-Games.apk",
-  "apkSize": 42327725,
-  "apkSha256": "15c71cd52237f188e3c172d2d51d93b391afedb91db2fc992f4f338af301ee72",
-  "notes": "Menu marks removed; tile shine line now wraps the full pill"
+  "latestCode": 64,
+  "latestName": "3.48",
+  "baseCode": 63,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.48/v63-to-v64.patch",
+  "patchSize": 212184,
+  "patchSha256": "b3dcafa6bd8213c24c65153d3f58e26f3657b4d67625d72e8d6b6a446359be33",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.48/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.48/Party-Games.apk",
+  "apkSize": 42323629,
+  "apkSha256": "2c6bd767c2a098cda3387e1901db677262bb3419058538c8da21e9aa2488b8bd",
+  "notes": "Menu: logo's pool now blends into the card \u2014 no cut line"
 }
