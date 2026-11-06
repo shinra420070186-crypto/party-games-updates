@@ -1,13 +1,13 @@
 {
-  "latestCode": 52,
-  "latestName": "3.36",
-  "baseCode": 51,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.36/v51-to-v52.patch",
-  "patchSize": 1136916,
-  "patchSha256": "bc488ed73619131a334e2d3c08808f79a8fa5a9448c2e66a1ffe589f2a0a3677",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.36/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.36/Party-Games.apk",
-  "apkSize": 40795752,
-  "apkSha256": "ef00f78eea90f2b50d6b7f9ea0d5b68af805fa2516a90b407809763fe97bb7a5",
-  "notes": "Menu: shadow tails, mascot seam and Join shadow fixed"
+  "latestCode": 53,
+  "latestName": "3.37",
+  "baseCode": 52,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.37/v52-to-v53.patch",
+  "patchSize": 1113706,
+  "patchSha256": "cdde6052f76565796af3ee908c51f19fbe35155db2aa6c3e019799a26b6ce245",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.37/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.37/Party-Games.apk",
+  "apkSize": 40775272,
+  "apkSha256": "661f4d19d9da05130647cfa90767ac7514e205673a10fb5533db4ce036c669cb",
+  "notes": "Back to the previous menu build (v3.35)"
 }
