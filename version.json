@@ -1,13 +1,13 @@
 {
-  "latestCode": 62,
-  "latestName": "3.46",
-  "baseCode": 61,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.46/v61-to-v62.patch",
-  "patchSize": 1057110,
-  "patchSha256": "167495156fa2c4f564a7e618ced9b95d7854cb200e179473e8e6853f9a5ee609",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.46/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.46/Party-Games.apk",
-  "apkSize": 42331821,
-  "apkSha256": "b138e641bed18cb6e4cb5d513d029079c8350bf0cfc8ca2eea54488da270a3a8",
-  "notes": "Tile borders whole, Pass & Play edge fixed, menu buttons lowered"
+  "latestCode": 63,
+  "latestName": "3.47",
+  "baseCode": 62,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.47/v62-to-v63.patch",
+  "patchSize": 1104410,
+  "patchSha256": "fff15be008ee15394182c6b400ad372bb9671782003b1e51b25bb0226cb41452",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.47/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.47/Party-Games.apk",
+  "apkSize": 42327725,
+  "apkSha256": "15c71cd52237f188e3c172d2d51d93b391afedb91db2fc992f4f338af301ee72",
+  "notes": "Menu marks removed; tile shine line now wraps the full pill"
 }
