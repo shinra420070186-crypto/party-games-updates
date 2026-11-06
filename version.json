@@ -1,13 +1,13 @@
 {
-  "latestCode": 66,
-  "latestName": "3.50",
-  "baseCode": 65,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.50/v65-to-v66.patch",
-  "patchSize": 1395527,
-  "patchSha256": "071206b8f04167a5522560774648423ee9b0a80e5fe94acc7234d5d7a6b8f6c2",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.50/Party-Games-v3.50.apk",
+  "latestCode": 67,
+  "latestName": "3.51",
+  "baseCode": 66,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.51/v66-to-v67.patch",
+  "patchSize": 1094463,
+  "patchSha256": "6c77f631a13c39649d84da5f3867bb3bbd0c59fd177a2298f1175c8272208b98",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.51/Party-Games-v3.51.apk",
   "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.49/Party-Games.apk",
-  "apkSize": 42311341,
-  "apkSha256": "9cff7dbb934ceafb1926a22a384d6b6f88e094f0b3ad57f296153a5c1296f1b8",
-  "notes": "Back to the previous menu \u2014 only the logo fixed"
+  "apkSize": 42323629,
+  "apkSha256": "bc920e9467406c6cbee95fff8018a9990e2668afb7fcf1e279b79752689c060b",
+  "notes": "Logo now matches your picture \u2014 smaller, complete, smooth"
 }
