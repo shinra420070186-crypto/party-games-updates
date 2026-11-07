@@ -1,13 +1,13 @@
 {
-  "latestCode": 69,
-  "latestName": "3.53",
-  "baseCode": 68,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.53/v68-to-v69.patch",
-  "patchSize": 1747620,
-  "patchSha256": "5c40bbd73a9ad474e14a51d6f2db8c5f9f947474a0168aa393aae85f512b7b35",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.53/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.53/Party-Games.apk",
-  "apkSize": 42327725,
-  "apkSha256": "9a7647342c9bfd8f1c8ac9581316b0fe162334ac1555815ba755650d3a9b1fb2",
-  "notes": "Logo is now part of the card picture \u2014 nothing cut out, nothing layered"
+  "latestCode": 70,
+  "latestName": "3.54",
+  "baseCode": 69,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.54/v69-to-v70.patch",
+  "patchSize": 1173109,
+  "patchSha256": "40bbfad0d1e45c7b26454ccfb8a0ac1d0757731f61f12b3389d4c3af5f783712",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.54/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.54/Party-Games.apk",
+  "apkSize": 42271789,
+  "apkSha256": "38f13cfeaabb974f245a8dc861a6895463ce631254d30f630cb19af6afd89e1f",
+  "notes": "New app icon"
 }
