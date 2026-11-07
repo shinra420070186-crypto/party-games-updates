@@ -1,13 +1,13 @@
 {
-  "latestCode": 79,
-  "latestName": "3.63",
-  "baseCode": 78,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.63/v78-to-v79.patch",
-  "patchSize": 983961,
-  "patchSha256": "6f2a7d911e952e4a57c55bbbe28c6d18c71aeac56464c37959c24fe43eaa42ef",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.63/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.63/Party-Games.apk",
-  "apkSize": 42787960,
-  "apkSha256": "5b87cc5dc8dfebb2d86f64350697db87703ef31afe97d8bc96626ae7dc61a1b7",
-  "notes": "Fixes false Room Closed on guests; everyone confirms their role before the game starts"
+  "latestCode": 80,
+  "latestName": "3.64",
+  "baseCode": 79,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.64/v79-to-v80.patch",
+  "patchSize": 977797,
+  "patchSha256": "1ff7d3326bc03a36e7330f8aff5a9c65f354cb8224cffe7c8d5f207b8e39a4ae",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.64/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.64/Party-Games.apk",
+  "apkSize": 42796152,
+  "apkSha256": "eba122a5d20ecbe1612096d93571793a1c2988d728594e97ee33caebc8649959",
+  "notes": "Join screen search now finds rooms; layout adapts to tablets and other screen sizes"
 }
