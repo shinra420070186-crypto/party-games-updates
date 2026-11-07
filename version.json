@@ -1,13 +1,13 @@
 {
-  "latestCode": 82,
-  "latestName": "3.66",
-  "baseCode": 81,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.66/v81-to-v82.patch",
-  "patchSize": 998348,
-  "patchSha256": "be80fc15ebbd99bcf293508c359e8f8adfca77a217e0d83c0f3bd1f0a428e831",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.66/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.66/Party-Games.apk",
-  "apkSize": 42800248,
-  "apkSha256": "f617ac2672f1da248980e5b02f633f7d192be38e38cd1c425480e98a009e694a",
-  "notes": "Fixes guests dropping when they tap Confirm: sends now run off the UI thread"
+  "latestCode": 83,
+  "latestName": "3.67",
+  "baseCode": 82,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.67/v82-to-v83.patch",
+  "patchSize": 997320,
+  "patchSha256": "679a67111cb655502d1f446bb44fb9b2379598f2e57de61cf6f687bd2472456b",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.67/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.67/Party-Games.apk",
+  "apkSize": 42804344,
+  "apkSha256": "100a8d26753f2b481225101cb674f3e0c50120af79bb60077cf82fe58f9837ea",
+  "notes": "Voting now works every round and uses select-then-Confirm like pass-and-play; Abstain renamed to Skip; Play Again deals fresh roles"
 }
