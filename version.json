@@ -1,13 +1,13 @@
 {
-  "latestCode": 81,
-  "latestName": "3.65",
-  "baseCode": 80,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.65/v80-to-v81.patch",
-  "patchSize": 993810,
-  "patchSha256": "f1d78c59471a371c74f55c5bf422c9e5e900a1e7e5e30eeb97ff57891e670d18",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.65/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.65/Party-Games.apk",
+  "latestCode": 82,
+  "latestName": "3.66",
+  "baseCode": 81,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.66/v81-to-v82.patch",
+  "patchSize": 998348,
+  "patchSha256": "be80fc15ebbd99bcf293508c359e8f8adfca77a217e0d83c0f3bd1f0a428e831",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.66/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.66/Party-Games.apk",
   "apkSize": 42800248,
-  "apkSha256": "a75d2a5bbc5977e2d0a4869b4e3ffa33d30c5034108a2503997b82b37301c565",
-  "notes": "Diagnostic build: connection log for the guest drop issue"
+  "apkSha256": "f617ac2672f1da248980e5b02f633f7d192be38e38cd1c425480e98a009e694a",
+  "notes": "Fixes guests dropping when they tap Confirm: sends now run off the UI thread"
 }
