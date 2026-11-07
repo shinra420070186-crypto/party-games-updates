@@ -1,13 +1,13 @@
 {
-  "latestCode": 74,
-  "latestName": "3.58",
-  "baseCode": 73,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.58/v73-to-v74.patch",
-  "patchSize": 81906,
-  "patchSha256": "e4413f8765d8e4dab2fdfa3d3c458c860c089290854f3c5542ae406cb229925d",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.58/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.58/Party-Games.apk",
-  "apkSize": 42771501,
-  "apkSha256": "57a42bf819d09120391fd93677be27dae2e5f1fb0e6024ab023dc28f288cb048",
-  "notes": "Fixes the blurry strip at the top of Home"
+  "latestCode": 75,
+  "latestName": "3.59",
+  "baseCode": 74,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.59/v74-to-v75.patch",
+  "patchSize": 972300,
+  "patchSha256": "83ad999d7cf970d6f0244db651440681314e52ef99942fcd00f6985c54c33108",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.59/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.59/Party-Games.apk",
+  "apkSize": 42775597,
+  "apkSha256": "68d244a20266f0725dcfe10fb2fa5fcecef890c4683ae9052cbc430799773108",
+  "notes": "Haptic tick on every button and tile"
 }
