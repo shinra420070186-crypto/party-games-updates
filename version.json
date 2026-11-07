@@ -1,13 +1,13 @@
 {
-  "latestCode": 80,
-  "latestName": "3.64",
-  "baseCode": 79,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.64/v79-to-v80.patch",
-  "patchSize": 977797,
-  "patchSha256": "1ff7d3326bc03a36e7330f8aff5a9c65f354cb8224cffe7c8d5f207b8e39a4ae",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.64/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.64/Party-Games.apk",
-  "apkSize": 42796152,
-  "apkSha256": "eba122a5d20ecbe1612096d93571793a1c2988d728594e97ee33caebc8649959",
-  "notes": "Join screen search now finds rooms; layout adapts to tablets and other screen sizes"
+  "latestCode": 81,
+  "latestName": "3.65",
+  "baseCode": 80,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.65/v80-to-v81.patch",
+  "patchSize": 993810,
+  "patchSha256": "f1d78c59471a371c74f55c5bf422c9e5e900a1e7e5e30eeb97ff57891e670d18",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.65/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.65/Party-Games.apk",
+  "apkSize": 42800248,
+  "apkSha256": "a75d2a5bbc5977e2d0a4869b4e3ffa33d30c5034108a2503997b82b37301c565",
+  "notes": "Diagnostic build: connection log for the guest drop issue"
 }
