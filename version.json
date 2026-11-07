@@ -1,13 +1,13 @@
 {
-  "latestCode": 76,
-  "latestName": "3.60",
-  "baseCode": 75,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.60/v75-to-v76.patch",
-  "patchSize": 947125,
-  "patchSha256": "8df0710f483c3f7bf64ce1f98513fe6131ae3f04f8d549a8a3d2f649069f3e17",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.60/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.60/Party-Games.apk",
+  "latestCode": 77,
+  "latestName": "3.61",
+  "baseCode": 76,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.61/v76-to-v77.patch",
+  "patchSize": 978126,
+  "patchSha256": "daef6a3ba9b392ab8b6b2f560884ab1d238be25f6e8305b9611b24a0ab45f8e4",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.61/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.61/Party-Games.apk",
   "apkSize": 42775597,
-  "apkSha256": "15c6342a23930fa00828cebf679c0cc91b4d97a6411e7c94aad2143ca0b78c59",
-  "notes": "Network popup gets the card design; Join popup drops the hotspot button"
+  "apkSha256": "ebe31b64b1dd97f11fad8b224f30d4d70fbe738b5d1931bf335f2eabcfcd500b",
+  "notes": "Back button now works like the in-app back; Home asks before exiting"
 }
