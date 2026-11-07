@@ -1,13 +1,13 @@
 {
-  "latestCode": 77,
-  "latestName": "3.61",
-  "baseCode": 76,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.61/v76-to-v77.patch",
-  "patchSize": 978126,
-  "patchSha256": "daef6a3ba9b392ab8b6b2f560884ab1d238be25f6e8305b9611b24a0ab45f8e4",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.61/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.61/Party-Games.apk",
-  "apkSize": 42775597,
-  "apkSha256": "ebe31b64b1dd97f11fad8b224f30d4d70fbe738b5d1931bf335f2eabcfcd500b",
-  "notes": "Back button now works like the in-app back; Home asks before exiting"
+  "latestCode": 78,
+  "latestName": "3.62",
+  "baseCode": 77,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.62/v77-to-v78.patch",
+  "patchSize": 970950,
+  "patchSha256": "a41f0a93859cdb747a0de781d54bdd477306a096db06efd797ac116922477444",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.62/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.62/Party-Games.apk",
+  "apkSize": 42787960,
+  "apkSha256": "ad28e7e59b6e1e2f702e8017a58dff48ac69c56d0c8dbb61a57de07c1cfdee8e",
+  "notes": "Room nights get paced host voice calls; cards appear and vanish with the calls"
 }
