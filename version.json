@@ -1,13 +1,13 @@
 {
-  "latestCode": 83,
-  "latestName": "3.67",
-  "baseCode": 82,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.67/v82-to-v83.patch",
-  "patchSize": 997320,
-  "patchSha256": "679a67111cb655502d1f446bb44fb9b2379598f2e57de61cf6f687bd2472456b",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.67/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.67/Party-Games.apk",
+  "latestCode": 84,
+  "latestName": "3.68",
+  "baseCode": 83,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.68/v83-to-v84.patch",
+  "patchSize": 952551,
+  "patchSha256": "7860610a1a1f7637af00604c05f7187827750b9b61c5f6bb21f754e8d7ee5016",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.68/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.68/Party-Games.apk",
   "apkSize": 42804344,
-  "apkSha256": "100a8d26753f2b481225101cb674f3e0c50120af79bb60077cf82fe58f9837ea",
-  "notes": "Voting now works every round and uses select-then-Confirm like pass-and-play; Abstain renamed to Skip; Play Again deals fresh roles"
+  "apkSha256": "fc3708f187a1bc004fd253cf25264129dfade90c520d75927e73a133146a2385",
+  "notes": "Mafia now wins only at even numbers; night picks use select-then-Confirm; removed the extra wake-up call"
 }
