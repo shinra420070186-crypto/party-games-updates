@@ -1,13 +1,13 @@
 {
-  "latestCode": 73,
-  "latestName": "3.57",
-  "baseCode": 72,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.57/v72-to-v73.patch",
-  "patchSize": 949341,
-  "patchSha256": "dc6244f0e48dc58851e599bf48df0b55eaa24f5800506f638607b1427e807454",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.57/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.57/Party-Games.apk",
+  "latestCode": 74,
+  "latestName": "3.58",
+  "baseCode": 73,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.58/v73-to-v74.patch",
+  "patchSize": 81906,
+  "patchSha256": "e4413f8765d8e4dab2fdfa3d3c458c860c089290854f3c5542ae406cb229925d",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.58/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.58/Party-Games.apk",
   "apkSize": 42771501,
-  "apkSha256": "2c3296b76dfb25376a484bc0055fa173f0a25f42eda476597d9d3bb5f2ff3281",
-  "notes": "Fixes the startup crash on some phones + bars now auto-hide properly"
+  "apkSha256": "57a42bf819d09120391fd93677be27dae2e5f1fb0e6024ab023dc28f288cb048",
+  "notes": "Fixes the blurry strip at the top of Home"
 }
