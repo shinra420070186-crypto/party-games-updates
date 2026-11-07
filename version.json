@@ -1,13 +1,13 @@
 {
-  "latestCode": 71,
-  "latestName": "3.55",
-  "baseCode": 70,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.55/v70-to-v71.patch",
-  "patchSize": 795768,
-  "patchSha256": "dd3006052137f644748253fa3095dae102de8939e052f0d783b6316ce6645cc8",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.55/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.55/Party-Games.apk",
+  "latestCode": 72,
+  "latestName": "3.56",
+  "baseCode": 71,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.56/v71-to-v72.patch",
+  "patchSize": 952585,
+  "patchSha256": "23ebec524ab0adf9b14c69675c929ce1f8818d460f8715623058a42efba3eec4",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.56/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.56/Party-Games.apk",
   "apkSize": 42771501,
-  "apkSha256": "a98b2bf1b8c16df2be555229f93958661f33c5eb972cca947d84a1dbdf1b4cb4",
-  "notes": "Icon now fills the whole icon"
+  "apkSha256": "31cdc1ad5ae97aa62e224848255b5d8641807c1109a965c863ccf3a57db6ad55",
+  "notes": "Fullscreen: system bars hide like a game"
 }
