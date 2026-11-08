@@ -1,14 +1,14 @@
 {
-  "latestCode": 93,
-  "latestName": "3.77",
-  "baseCode": 91,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v91-to-v93.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.77/v91-to-v93.patch",
-  "patchSize": 1185907,
-  "patchSha256": "e41e019861fc7ecd91373fa482c2c8ac1261f569dffb5c587d6b5fd80f0c5ac2",
-  "apkUrl": "https://muse.ai/files/1415276078326221/29015254658123380/9lo0g5241cqj5tz3zj9a3ftp/Party-Games.apk",
-  "fullApkUrl": "https://muse.ai/files/1415276078326221/29015254658123380/9lo0g5241cqj5tz3zj9a3ftp/Party-Games.apk",
-  "apkSize": 42390648,
-  "apkSha256": "108d456a0a06d83e01407affa02bdb287f6a46cddfcd8af36c50ba7dd806d7c5",
-  "notes": "Update downloads are now much harder to break: they retry on their own, resume where they stopped instead of starting over, and the small update also comes from a second server route"
+  "latestCode": 94,
+  "latestName": "3.78",
+  "baseCode": 93,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v93-to-v94.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.78/v93-to-v94.patch",
+  "patchSize": 1184547,
+  "patchSha256": "6488fbf7d65696bf642ef70d25237e76cc96f0caabfc333f16de724815d975fc",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.78/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.78/Party-Games.apk",
+  "apkSize": 42325112,
+  "apkSha256": "88b71e32e2eeb47d82f508e7dab0c9a75f96611124e8578e31a22e08564245e9",
+  "notes": "Fixed the Join a Room button showing an extra empty bar under it"
 }
