@@ -1,13 +1,14 @@
 {
-  "latestCode": 92,
-  "latestName": "3.76",
-  "baseCode": 91,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.76/v91-to-v92.patch",
-  "patchSize": 1165202,
-  "patchSha256": "11b38e28637d978bd9f520e2f85585b3cb8444bde7e77479f922e2cf73179e19",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.76/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.76/Party-Games.apk",
-  "apkSize": 42386552,
-  "apkSha256": "179212793aa15f5ae837103ba3f23a3c994ffb9bdc02a988df4bd63a7e6d17f7",
-  "notes": "The Mafia menu card no longer has the logo \u2014 just the clean card, as requested"
+  "latestCode": 93,
+  "latestName": "3.77",
+  "baseCode": 92,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.77/v92-to-v93.patch",
+  "patchMirrorUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v92-to-v93.patch",
+  "patchSize": 1005409,
+  "patchSha256": "c9985f3b0598b3d867471671fa7d90ec1b08db19ac7bb8db4886c9bc0df07767",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.77/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.77/Party-Games.apk",
+  "apkSize": 42390648,
+  "apkSha256": "108d456a0a06d83e01407affa02bdb287f6a46cddfcd8af36c50ba7dd806d7c5",
+  "notes": "Update downloads are now much harder to break: they retry on their own, resume where they stopped instead of starting over, and the small update also comes from a second server route"
 }
