@@ -1,13 +1,13 @@
 {
-  "latestCode": 91,
-  "latestName": "3.75",
-  "baseCode": 90,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.75/v90-to-v91.patch",
-  "patchSize": 988145,
-  "patchSha256": "85da4bc837695ea47f1b5e09331d721f48c7af5a6dd6829c509a2afa4bf275dc",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.75/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.75/Party-Games.apk",
-  "apkSize": 42869880,
-  "apkSha256": "741b8d9c21a7ec906b403023b878ad07e38527d558cc41aded5e025f4cf0c76a",
-  "notes": "Fixed the voting waiting screen saying 'all votes are in' while a player was still left to vote \u2014 the count now always shows the true number left"
+  "latestCode": 92,
+  "latestName": "3.76",
+  "baseCode": 91,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.76/v91-to-v92.patch",
+  "patchSize": 1165202,
+  "patchSha256": "11b38e28637d978bd9f520e2f85585b3cb8444bde7e77479f922e2cf73179e19",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.76/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.76/Party-Games.apk",
+  "apkSize": 42386552,
+  "apkSha256": "179212793aa15f5ae837103ba3f23a3c994ffb9bdc02a988df4bd63a7e6d17f7",
+  "notes": "The Mafia menu card no longer has the logo \u2014 just the clean card, as requested"
 }
