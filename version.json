@@ -1,13 +1,13 @@
 {
-  "latestCode": 88,
-  "latestName": "3.72",
-  "baseCode": 87,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.72/v87-to-v88.patch",
-  "patchSize": 985592,
-  "patchSha256": "a97d7f3d08e82bfe429fc7e5f5df61d805cea4e2a44c9853665f4a3f4fb9b5fd",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.72/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.72/Party-Games.apk",
+  "latestCode": 89,
+  "latestName": "3.73",
+  "baseCode": 88,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.73/v88-to-v89.patch",
+  "patchSize": 988027,
+  "patchSha256": "ab0159c0fb5abe38160cb87e0d477b1afce8e18b9b0aea30486942a6a00b515f",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.73/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.73/Party-Games.apk",
   "apkSize": 42808440,
-  "apkSha256": "468af588650cc12b1c7ba4db5c86de22dfba5a40d75650a107199780c7eab428",
-  "notes": "The app now always uses its own text sizes \u2014 your phone's font-size setting no longer stretches the screens. Waiting screens now show the real number of players left to confirm and left to vote."
+  "apkSha256": "2fef9826ed8ec3ca6a09ee6e493fda64dc38b1d6090b3869ca350ef13aa577ad",
+  "notes": "Skip now counts as a real vote \u2014 if skips outnumber the votes for any player, nobody is exiled and the day says the town chose to skip"
 }
