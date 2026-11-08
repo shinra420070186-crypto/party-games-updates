@@ -6,8 +6,8 @@
   "patchMirrorUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v92-to-v93.patch",
   "patchSize": 1005409,
   "patchSha256": "c9985f3b0598b3d867471671fa7d90ec1b08db19ac7bb8db4886c9bc0df07767",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.77/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.77/Party-Games.apk",
+  "apkUrl": "https://muse.ai/files/1415276078326221/29015254658123380/9lo0g5241cqj5tz3zj9a3ftp/Party-Games.apk",
+  "fullApkUrl": "https://muse.ai/files/1415276078326221/29015254658123380/9lo0g5241cqj5tz3zj9a3ftp/Party-Games.apk",
   "apkSize": 42390648,
   "apkSha256": "108d456a0a06d83e01407affa02bdb287f6a46cddfcd8af36c50ba7dd806d7c5",
   "notes": "Update downloads are now much harder to break: they retry on their own, resume where they stopped instead of starting over, and the small update also comes from a second server route"
