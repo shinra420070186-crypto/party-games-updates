@@ -1,13 +1,13 @@
 {
-  "latestCode": 85,
-  "latestName": "3.69",
-  "baseCode": 84,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.69/v84-to-v85.patch",
-  "patchSize": 1001754,
-  "patchSha256": "29061d9d6f6c48f612c5f37dfaddf655158e083ab7ee4c33ac03e7d2da69d030",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.69/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.69/Party-Games.apk",
+  "latestCode": 86,
+  "latestName": "3.70",
+  "baseCode": 85,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.70/v85-to-v86.patch",
+  "patchSize": 979256,
+  "patchSha256": "df93e46b3e2d7ad021df73e8d443323be39b32d2852a2028968d353c47e08475",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.70/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.70/Party-Games.apk",
   "apkSize": 42808440,
-  "apkSha256": "ee9864534ce9a990dbf717e826c9afc068fc187a1e2955e9a71cef82f758c651",
-  "notes": "Night pauses now start after each voice call finishes"
+  "apkSha256": "2d1b21a778421247a1ffb23d579f978807240e02dc476574dd0beda090579a42",
+  "notes": "Fixes voting ending before everyone has voted"
 }
