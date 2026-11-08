@@ -1,13 +1,13 @@
 {
-  "latestCode": 89,
-  "latestName": "3.73",
-  "baseCode": 88,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.73/v88-to-v89.patch",
-  "patchSize": 988027,
-  "patchSha256": "ab0159c0fb5abe38160cb87e0d477b1afce8e18b9b0aea30486942a6a00b515f",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.73/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.73/Party-Games.apk",
-  "apkSize": 42808440,
-  "apkSha256": "2fef9826ed8ec3ca6a09ee6e493fda64dc38b1d6090b3869ca350ef13aa577ad",
-  "notes": "Skip now counts as a real vote \u2014 if skips outnumber the votes for any player, nobody is exiled and the day says the town chose to skip"
+  "latestCode": 90,
+  "latestName": "3.74",
+  "baseCode": 89,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.74/v89-to-v90.patch",
+  "patchSize": 733490,
+  "patchSha256": "43ca9e6f68d3be6811742e7a5bfb53444f04326649235a456cc4ec866b0abe4c",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.74/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.74/Party-Games.apk",
+  "apkSize": 42869880,
+  "apkSha256": "a38be794bd783e07496865d9226fc9815dd1a9f2b427fe01b86753a296f29424",
+  "notes": "The Mafia menu card is now one clean surface \u2014 no split between the top and bottom of the card"
 }
