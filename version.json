@@ -1,13 +1,13 @@
 {
-  "latestCode": 84,
-  "latestName": "3.68",
-  "baseCode": 83,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.68/v83-to-v84.patch",
-  "patchSize": 952551,
-  "patchSha256": "7860610a1a1f7637af00604c05f7187827750b9b61c5f6bb21f754e8d7ee5016",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.68/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.68/Party-Games.apk",
-  "apkSize": 42804344,
-  "apkSha256": "fc3708f187a1bc004fd253cf25264129dfade90c520d75927e73a133146a2385",
-  "notes": "Mafia now wins only at even numbers; night picks use select-then-Confirm; removed the extra wake-up call"
+  "latestCode": 85,
+  "latestName": "3.69",
+  "baseCode": 84,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.69/v84-to-v85.patch",
+  "patchSize": 1001754,
+  "patchSha256": "29061d9d6f6c48f612c5f37dfaddf655158e083ab7ee4c33ac03e7d2da69d030",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.69/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.69/Party-Games.apk",
+  "apkSize": 42808440,
+  "apkSha256": "ee9864534ce9a990dbf717e826c9afc068fc187a1e2955e9a71cef82f758c651",
+  "notes": "Night pauses now start after each voice call finishes"
 }
