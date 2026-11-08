@@ -1,13 +1,13 @@
 {
-  "latestCode": 87,
-  "latestName": "3.71",
-  "baseCode": 86,
-  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.71/v86-to-v87.patch",
-  "patchSize": 997144,
-  "patchSha256": "2220ad00c2a3b65f885bab5d37c08551ba737c04efe4e8c48a3c53e8b541dc20",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.71/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.71/Party-Games.apk",
+  "latestCode": 88,
+  "latestName": "3.72",
+  "baseCode": 87,
+  "patchUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.72/v87-to-v88.patch",
+  "patchSize": 985592,
+  "patchSha256": "a97d7f3d08e82bfe429fc7e5f5df61d805cea4e2a44c9853665f4a3f4fb9b5fd",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.72/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.72/Party-Games.apk",
   "apkSize": 42808440,
-  "apkSha256": "acbda28732d6b744d057d8b85ea03ff80550c140f683f0e10d63fadfb125e9f9",
-  "notes": "Dead players now watch voting instead of getting a fake vote screen; voting rounds can't double-start"
+  "apkSha256": "468af588650cc12b1c7ba4db5c86de22dfba5a40d75650a107199780c7eab428",
+  "notes": "The app now always uses its own text sizes \u2014 your phone's font-size setting no longer stretches the screens. Waiting screens now show the real number of players left to confirm and left to vote."
 }
