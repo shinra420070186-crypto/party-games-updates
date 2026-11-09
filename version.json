@@ -1,14 +1,14 @@
 {
-  "latestCode": 96,
-  "latestName": "3.80",
-  "baseCode": 95,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v95-to-v96.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.80/v95-to-v96.patch",
-  "patchSize": 1048644,
-  "patchSha256": "87d4b712921577e3212ff290438f75cbaf174939d9899ba7cf2eef6aa95a1380",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.80/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.80/Party-Games.apk",
-  "apkSize": 42460280,
-  "apkSha256": "082ab547651a645a647b9ba1b38ea4f920d8ea3ef3211c2f0421e8557c610369",
-  "notes": "Imposter Who? now has rooms \u2014 host or join on Wi-Fi, same as Mafia, no voice-over. Plus the Imposter flip card now flips like Mafia's"
+  "latestCode": 97,
+  "latestName": "3.81",
+  "baseCode": 96,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v96-to-v97.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.81/v96-to-v97.patch",
+  "patchSize": 1159609,
+  "patchSha256": "40832cde64d79bf6110ed295d280fd3ed774b423d13107e0343626f405d581c6",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.81/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.81/Party-Games.apk",
+  "apkSize": 43201656,
+  "apkSha256": "eb1f0477da05e4aa8b0ed7b8514ae5f64ad87628f353ae68c286cf55d6e4645c",
+  "notes": "The Mafia menu card now uses the same card design as the other cards in the game"
 }
