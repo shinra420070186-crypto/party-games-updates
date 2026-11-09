@@ -1,14 +1,14 @@
 {
-  "latestCode": 98,
-  "latestName": "3.82",
-  "baseCode": 97,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v97-to-v98.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.82/v97-to-v98.patch",
-  "patchSize": 1054524,
-  "patchSha256": "3141121ea50104c2ed5a8cfdef989b6662053fca6d8d5326aeb579eed5f5abd0",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.82/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.82/Party-Games.apk",
+  "latestCode": 99,
+  "latestName": "3.83",
+  "baseCode": 98,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v98-to-v99.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.83/v98-to-v99.patch",
+  "patchSize": 1055956,
+  "patchSha256": "89c06e9a67914c2ec5522412cb620fe9955047b4a5ea6b06ca3d4a755d279dd0",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.83/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.83/Party-Games.apk",
   "apkSize": 43201656,
-  "apkSha256": "d5415558cf31296e18404d6073005e1e7e0f2439a5bf2136df3eeb089dd6efa9",
-  "notes": "Imposter Who? now wears the same design as The Mafia \u2014 same lobby, settings, cards and scenes. Gameplay unchanged"
+  "apkSha256": "1c40e7661c22e4c3c9a71ebf8eb31d9f9a1566a1581e5d026ad231253f0f1028",
+  "notes": "Fixed the Confirm button being cut off on smaller phones \u2014 the reveal card now fits every screen size"
 }
