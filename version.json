@@ -1,14 +1,14 @@
 {
-  "latestCode": 99,
-  "latestName": "3.83",
-  "baseCode": 98,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v98-to-v99.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.83/v98-to-v99.patch",
-  "patchSize": 1055956,
-  "patchSha256": "89c06e9a67914c2ec5522412cb620fe9955047b4a5ea6b06ca3d4a755d279dd0",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.83/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.83/Party-Games.apk",
-  "apkSize": 43201656,
-  "apkSha256": "1c40e7661c22e4c3c9a71ebf8eb31d9f9a1566a1581e5d026ad231253f0f1028",
-  "notes": "Fixed the Confirm button being cut off on smaller phones \u2014 the reveal card now fits every screen size"
+  "latestCode": 100,
+  "latestName": "3.84",
+  "baseCode": 99,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v99-to-v100.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.84/v99-to-v100.patch",
+  "patchSize": 1066849,
+  "patchSha256": "e9f6dba6884d114773d3a6ffa23047afc56f4468bcea204d1d4c5160a399c8c2",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.84/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.84/Party-Games.apk",
+  "apkSize": 43209848,
+  "apkSha256": "95d2e8614355331d19f394cca15a30ff76324acb7b97db11a23a7b8f8eecebc2",
+  "notes": "Imposter Who? setup and lobby redesigned \u2014 avatar player rows, host crown, and the new Start bar"
 }
