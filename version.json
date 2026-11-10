@@ -1,14 +1,14 @@
 {
-  "latestCode": 106,
-  "latestName": "3.90",
-  "baseCode": 105,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v105-to-v106.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.90/v105-to-v106.patch",
-  "patchSize": 1066249,
-  "patchSha256": "82321cef55edbe67d38d08ecc7cbf096b86812ddf74a7de0a3bc61be19da3ca1",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.90/Party-Games-v3.90.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.90/Party-Games-v3.90.apk",
+  "latestCode": 107,
+  "latestName": "3.91",
+  "baseCode": 106,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v106-to-v107.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.91/v106-to-v107.patch",
+  "patchSize": 1059524,
+  "patchSha256": "7b5dd2292af6138e3ecdc18f95980c31a21357c6215b5a0a8d9b851935471c95",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.91/Party-Games-v3.91.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.91/Party-Games-v3.91.apk",
   "apkSize": 43209848,
-  "apkSha256": "591b8edfa423f701aa85b69964f9a3ed9d15647be7f824fea5f195394ab340ef",
-  "notes": "The player card now keeps one size; settings are cleaned up; Mafia rooms get a voting timer (time out = Skip); and the settings bloom rises from the top of the card with a soft glow"
+  "apkSha256": "db44747519b7093d11f2d10402c78ba83cc171b463538a708e9a6fc6c68edd18",
+  "notes": "Bloom fixed: it now stays inside the card, with a soft shadow on its edge \u2014 and Done lives on the top pill, which keeps its size"
 }
