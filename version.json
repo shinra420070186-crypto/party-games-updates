@@ -1,14 +1,14 @@
 {
-  "latestCode": 101,
-  "latestName": "3.85",
-  "baseCode": 100,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v100-to-v101.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.85/v100-to-v101.patch",
-  "patchSize": 1063217,
-  "patchSha256": "a1c303fa7a876b1664bebb13285d98bf5502958e83c32ccdffc3cee7c646e1e5",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.85/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.85/Party-Games.apk",
-  "apkSize": 43205752,
-  "apkSha256": "01789fd943a44881ff5ec355334e86145605242de7f20620c3a0634cb3cf4a57",
-  "notes": "The Mafia menu and lobbies now match Imposter's new look \u2014 and the host's crown sits on the right, with their picture on the left like everyone else"
+  "latestCode": 102,
+  "latestName": "3.86",
+  "baseCode": 101,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v101-to-v102.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.86/v101-to-v102.patch",
+  "patchSize": 1057132,
+  "patchSha256": "ace85bccb424f16d87498747ea4c9f522646a1f4abc004c8e0d409ac5353ed1b",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.86/Party-Games.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.86/Party-Games.apk",
+  "apkSize": 43201656,
+  "apkSha256": "c73d2d781c1f6a68bb44a97812658b11d47c44bcd7938c25355e079392bbb052",
+  "notes": "The Mafia now opens on one screen, copied from Imposter Who? \u2014 your players, Host, Join and Start Game all on one page"
 }
