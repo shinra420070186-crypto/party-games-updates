@@ -1,14 +1,14 @@
 {
-  "latestCode": 104,
-  "latestName": "3.88",
-  "baseCode": 103,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v103-to-v104.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.88/v103-to-v104.patch",
-  "patchSize": 1038723,
-  "patchSha256": "f8079695c7ea91672ed9ba93be5bdd5fce3a4db92ad29d3486cfdb6786e2ce4c",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.88/Party-Games-v3.88.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.88/Party-Games-v3.88.apk",
+  "latestCode": 105,
+  "latestName": "3.89",
+  "baseCode": 104,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v104-to-v105.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.89/v104-to-v105.patch",
+  "patchSize": 1046775,
+  "patchSha256": "5979761f29dfcaa13dad19bb44eea896562959afadcef5ba2bfb335ce9b67ffd",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.89/Party-Games-v3.89.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.89/Party-Games-v3.89.apk",
   "apkSize": 43201656,
-  "apkSha256": "bc6982cfa9bf9eed5675f283ed9f3edf802ea00ec96497e840e99a5d1230db64",
-  "notes": "All the game cards are now slimmer, matching the lobby card \u2014 in both games. The Imposter card no longer repeats your name or shows the category: name on top, then just your word and picture"
+  "apkSha256": "de654a8c74e148898f5854509b3afb301aadbcdcdf9f9e13ec91d2248a150c6b",
+  "notes": "Your name now sits on the front of your flip card \u2014 the pass-the-phone header and the hint text under the card are gone, in both games and every mode"
 }
