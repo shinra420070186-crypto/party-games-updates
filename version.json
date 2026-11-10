@@ -1,14 +1,14 @@
 {
-  "latestCode": 102,
-  "latestName": "3.86",
-  "baseCode": 101,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v101-to-v102.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.86/v101-to-v102.patch",
-  "patchSize": 1057132,
-  "patchSha256": "ace85bccb424f16d87498747ea4c9f522646a1f4abc004c8e0d409ac5353ed1b",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.86/Party-Games.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.86/Party-Games.apk",
+  "latestCode": 103,
+  "latestName": "3.87",
+  "baseCode": 102,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v102-to-v103.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.87/v102-to-v103.patch",
+  "patchSize": 1048720,
+  "patchSha256": "cb7dab80d772740776ec4365416913eeb4b572630d45e71db837708649f78794",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.87/Party-Games-v3.87.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.87/Party-Games-v3.87.apk",
   "apkSize": 43201656,
-  "apkSha256": "c73d2d781c1f6a68bb44a97812658b11d47c44bcd7938c25355e079392bbb052",
-  "notes": "The Mafia now opens on one screen, copied from Imposter Who? \u2014 your players, Host, Join and Start Game all on one page"
+  "apkSha256": "5604af537673475354402e6888803f16dc36278f363d8ed9716e703c47550244",
+  "notes": "Recent players removed; Mafia adds and renames players just like Imposter; the top pill now says Edit; and settings bloom open inside the card instead of a new page \u2014 in both games"
 }
