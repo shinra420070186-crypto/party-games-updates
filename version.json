@@ -1,14 +1,14 @@
 {
-  "latestCode": 105,
-  "latestName": "3.89",
-  "baseCode": 104,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v104-to-v105.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.89/v104-to-v105.patch",
-  "patchSize": 1046775,
-  "patchSha256": "5979761f29dfcaa13dad19bb44eea896562959afadcef5ba2bfb335ce9b67ffd",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.89/Party-Games-v3.89.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.89/Party-Games-v3.89.apk",
-  "apkSize": 43201656,
-  "apkSha256": "de654a8c74e148898f5854509b3afb301aadbcdcdf9f9e13ec91d2248a150c6b",
-  "notes": "Your name now sits on the front of your flip card \u2014 the pass-the-phone header and the hint text under the card are gone, in both games and every mode"
+  "latestCode": 106,
+  "latestName": "3.90",
+  "baseCode": 105,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v105-to-v106.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.90/v105-to-v106.patch",
+  "patchSize": 1066249,
+  "patchSha256": "82321cef55edbe67d38d08ecc7cbf096b86812ddf74a7de0a3bc61be19da3ca1",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.90/Party-Games-v3.90.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.90/Party-Games-v3.90.apk",
+  "apkSize": 43209848,
+  "apkSha256": "591b8edfa423f701aa85b69964f9a3ed9d15647be7f824fea5f195394ab340ef",
+  "notes": "The player card now keeps one size; settings are cleaned up; Mafia rooms get a voting timer (time out = Skip); and the settings bloom rises from the top of the card with a soft glow"
 }
