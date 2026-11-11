@@ -1,14 +1,14 @@
 {
-  "latestCode": 111,
-  "latestName": "3.95",
-  "baseCode": 110,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v110-to-v111.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.95/v110-to-v111.patch",
-  "patchSize": 1061105,
-  "patchSha256": "4bdafdda6f02849fffa7a1ff3514a66f3fe42c277598417d65fbf9b243930ce2",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.95/Party-Games-v3.95.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.95/Party-Games-v3.95.apk",
+  "latestCode": 112,
+  "latestName": "3.96",
+  "baseCode": 111,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v111-to-v112.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.96/v111-to-v112.patch",
+  "patchSize": 1062001,
+  "patchSha256": "b6d6f691615eba40dc06a8f3a38fb9abd152fefc2eb4ca32660440d0699a56de",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.96/Party-Games-v3.96.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.96/Party-Games-v3.96.apk",
   "apkSize": 43209848,
-  "apkSha256": "c9d3f81282a09eb038ec05f33b9d52cf5daa39ffb6094ca2a7b22028a7aa0084",
-  "notes": "Scene-change bloom is smoother now - same clean circle, no skipped frames"
+  "apkSha256": "b94a04cdabdb7eae4f4bb9edd732390dcf1ede2153cc6f57b6335fbc1dd54bd4",
+  "notes": "Game Over screens cleaned up: less to read, tidier buttons"
 }
