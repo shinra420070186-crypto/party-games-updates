@@ -1,14 +1,14 @@
 {
-  "latestCode": 109,
-  "latestName": "3.93",
-  "baseCode": 108,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v108-to-v109.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.93/v108-to-v109.patch",
-  "patchSize": 1059496,
-  "patchSha256": "d2a485b8e3c71982eeb1df408d8d9fed90c2ae5072e237c71ebd85f8fc40fec6",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.93/Party-Games-v3.93.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.93/Party-Games-v3.93.apk",
+  "latestCode": 110,
+  "latestName": "3.94",
+  "baseCode": 109,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v109-to-v110.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.94/v109-to-v110.patch",
+  "patchSize": 1030267,
+  "patchSha256": "05d724095d64eb594fbcf8fb22c8a6ed4887507cc15845026dc409a7ad159fd7",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.94/Party-Games-v3.94.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.94/Party-Games-v3.94.apk",
   "apkSize": 43209848,
-  "apkSha256": "d3ae3f7f6abbbf6802c3a82ee9ded32cf925dcd1990f20f559e3fd0392464965",
-  "notes": "Bloom polish: smoother animation, the Edit/Done button now changes gently, and text no longer jumps when settings open or close"
+  "apkSha256": "8598054e24bc0be4ebb8de168e766abc2f82371ce01565cd3bd674d835f3b7c2",
+  "notes": "The settings bloom you liked is now the scene-change bloom too: night, day and voting backgrounds swap in the same clean circle"
 }
