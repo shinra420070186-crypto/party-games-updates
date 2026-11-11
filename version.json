@@ -1,14 +1,14 @@
 {
-  "latestCode": 107,
-  "latestName": "3.91",
-  "baseCode": 106,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v106-to-v107.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.91/v106-to-v107.patch",
-  "patchSize": 1059524,
-  "patchSha256": "7b5dd2292af6138e3ecdc18f95980c31a21357c6215b5a0a8d9b851935471c95",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.91/Party-Games-v3.91.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.91/Party-Games-v3.91.apk",
+  "latestCode": 108,
+  "latestName": "3.92",
+  "baseCode": 107,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v107-to-v108.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.92/v107-to-v108.patch",
+  "patchSize": 1033892,
+  "patchSha256": "3759f53e15d1267765d04f112b1bfd91fc6a070b29792079e35e2e783d291d02",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.92/Party-Games-v3.92.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.92/Party-Games-v3.92.apk",
   "apkSize": 43209848,
-  "apkSha256": "db44747519b7093d11f2d10402c78ba83cc171b463538a708e9a6fc6c68edd18",
-  "notes": "Bloom fixed: it now stays inside the card, with a soft shadow on its edge \u2014 and Done lives on the top pill, which keeps its size"
+  "apkSha256": "2bac04631c887c11e58f33c875931cc8ecd13bb0a6aa3e4ab555a548a4960ba9",
+  "notes": "Bloom fixed properly: the card now reveals in a clean circle \u2014 no fading or ghosting, and profile pictures stay put during the animation"
 }
