@@ -1,14 +1,14 @@
 {
-  "latestCode": 119,
-  "latestName": "3.103",
-  "baseCode": 118,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v118-to-v119.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.103/v118-to-v119.patch",
-  "patchSize": 1378291,
-  "patchSha256": "6436ed0f8cad9d5049959f33a1f69d5b0a02cc6db07d31d8d1796dacd1ed827a",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.103/Party-Games-v3.103.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.103/Party-Games-v3.103.apk",
-  "apkSize": 44340487,
-  "apkSha256": "5db687624ac2364ec73fb1c8d5df4bdf2ecfe22e0797f66f5858c44c0077c180",
-  "notes": "Poster titles in gold, like your picture \u2014 and tapping a game now opens it with a smooth rising transition."
+  "latestCode": 120,
+  "latestName": "3.104",
+  "baseCode": 119,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v119-to-v120.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.104/v119-to-v120.patch",
+  "patchSize": 2668364,
+  "patchSha256": "13644ac61940dd343cf272b7d756aa150f96fa9d7d2b876d257ce3fa60d5727c",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.104/Party-Games-v3.104.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.104/Party-Games-v3.104.apk",
+  "apkSize": 45622674,
+  "apkSha256": "65a3b1ba4e292e411b02b04979413344fb03430bf4023ef5be1f29c1134790c1",
+  "notes": "Your exact logos from the picture \u2014 and the title now flies up into the game page, like the video."
 }
