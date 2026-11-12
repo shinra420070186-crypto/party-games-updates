@@ -1,14 +1,14 @@
 {
-  "latestCode": 117,
-  "latestName": "3.101",
-  "baseCode": 116,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v116-to-v117.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.101/v116-to-v117.patch",
-  "patchSize": 1395345,
-  "patchSha256": "79691660507ebbbafff9a1f04e894e7d654e4fb7611f86e516560f01c5691a0b",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.101/Party-Games-v3.101.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.101/Party-Games-v3.101.apk",
-  "apkSize": 43537671,
-  "apkSha256": "fc30ad3cdf4ecca4c8ebe517c6c2dc3ff384ea7b8bf17c7cc382ce739e395dd8",
-  "notes": "Home fixes: search and profile now share one frosty pill, the hero fades between games with progress dots, and brand-new full-screen posters."
+  "latestCode": 118,
+  "latestName": "3.102",
+  "baseCode": 117,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v117-to-v118.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.102/v117-to-v118.patch",
+  "patchSize": 2319243,
+  "patchSha256": "9e36cdbaf4946fbd9dd81af4bdd9a0bab613f9c5c51905ba40134e7d9a730f4b",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.102/Party-Games-v3.102.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.102/Party-Games-v3.102.apk",
+  "apkSize": 44336391,
+  "apkSha256": "5ee4dbe3a28f08a6a0ddf33f1f3fec769984e14964011702f656a90e9e7b3a2d",
+  "notes": "Home polish: tidier poster titles, and the hero now follows your finger \u2014 drag it and the next game fades in. Plus a brand-new set of avatars."
 }
