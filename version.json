@@ -1,14 +1,14 @@
 {
-  "latestCode": 113,
-  "latestName": "3.97",
-  "baseCode": 112,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v112-to-v113.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.97/v112-to-v113.patch",
-  "patchSize": 1052381,
-  "patchSha256": "c3ba9d41f46c8e78af8b761eadbab7ff6e5bdbf22d61b107b41a411c20570afc",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.97/Party-Games-v3.97.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.97/Party-Games-v3.97.apk",
+  "latestCode": 114,
+  "latestName": "3.98",
+  "baseCode": 113,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v113-to-v114.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.98/v113-to-v114.patch",
+  "patchSize": 1063270,
+  "patchSha256": "3da2d8a2e59bcc9600d67481df4223c851c260f4ce855edc8943406736a17e16",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.98/Party-Games-v3.98.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.98/Party-Games-v3.98.apk",
   "apkSize": 43209848,
-  "apkSha256": "5d9490e3ffa279e9c17f4f4727cdaaad740b6cd6452b201a6a4c77db0ce3d7da",
-  "notes": "Polish pass: easier-to-read headers, one tidy size and spacing system, bigger Remove tap target"
+  "apkSha256": "bf8c0eb5ace5dd0c0cd0b1150b64974e637ee4359ea82923494935e5b27c89e1",
+  "notes": "Room fix: if the host leaves mid-game the room now closes properly and you can start a fresh room right away \u2014 no app restart. Imposter rooms get the Lobby button too"
 }
