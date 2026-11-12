@@ -1,14 +1,14 @@
 {
-  "latestCode": 115,
-  "latestName": "3.99",
-  "baseCode": 114,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v114-to-v115.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.99/v114-to-v115.patch",
-  "patchSize": 2190102,
-  "patchSha256": "cedc7b1e3f7631751aa8708ac4265a8e6e89d21618746f75d54c1ffc27c97680",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.99/Party-Games-v3.99.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.99/Party-Games-v3.99.apk",
-  "apkSize": 43201939,
-  "apkSha256": "cfb9102feeab29661c1462e7aa718ecaf2890e6de605f40d3281a83244dffa4a",
-  "notes": "New look! Party Games now wears the bright, bold poster style \u2014 a games feed home, big colourful posters for Imposter and Mafia, chunky buttons and cards everywhere. Same games, same rules."
+  "latestCode": 116,
+  "latestName": "3.100",
+  "baseCode": 115,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v115-to-v116.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.100/v115-to-v116.patch",
+  "patchSize": 2213707,
+  "patchSha256": "924bc988176f80e5759a263a010a22e0acc99b56c19615b8bbcc348b3b20508c",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.100/Party-Games-v3.100.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.100/Party-Games-v3.100.apk",
+  "apkSize": 43484423,
+  "apkSha256": "5a6111566266497eca2878e60b939d659271514a54bb54494f4bda711d006e39",
+  "notes": "Back to the classic look \u2014 with a new home: a big auto-scrolling game hero, a games row, frosty search and profile buttons, and the pink button is now your update button."
 }
