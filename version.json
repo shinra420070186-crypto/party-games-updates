@@ -1,14 +1,14 @@
 {
-  "latestCode": 120,
-  "latestName": "3.104",
-  "baseCode": 119,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v119-to-v120.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.104/v119-to-v120.patch",
-  "patchSize": 2668364,
-  "patchSha256": "13644ac61940dd343cf272b7d756aa150f96fa9d7d2b876d257ce3fa60d5727c",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.104/Party-Games-v3.104.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.104/Party-Games-v3.104.apk",
-  "apkSize": 45622674,
-  "apkSha256": "65a3b1ba4e292e411b02b04979413344fb03430bf4023ef5be1f29c1134790c1",
-  "notes": "Your exact logos from the picture \u2014 and the title now flies up into the game page, like the video."
+  "latestCode": 121,
+  "latestName": "3.105",
+  "baseCode": 120,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v120-to-v121.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.105/v120-to-v121.patch",
+  "patchSize": 2423659,
+  "patchSha256": "85279b30541fc8572f87ea742a1e458deeb9d4e012639907b5d815b2d74e1c01",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.105/Party-Games-v3.105.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.105/Party-Games-v3.105.apk",
+  "apkSize": 45667730,
+  "apkSha256": "adcc4674c38f7ce0cc4d1d2cd700e70fe3e5f99e3caf379650a150fed6f0da34",
+  "notes": "Fixes: the Mafia logo's letters are solid again, hero text always comes back after scrolling, the title flies back to the top image only, and no profile photo on the game page."
 }
