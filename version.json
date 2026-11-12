@@ -1,14 +1,14 @@
 {
-  "latestCode": 112,
-  "latestName": "3.96",
-  "baseCode": 111,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v111-to-v112.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.96/v111-to-v112.patch",
-  "patchSize": 1062001,
-  "patchSha256": "b6d6f691615eba40dc06a8f3a38fb9abd152fefc2eb4ca32660440d0699a56de",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.96/Party-Games-v3.96.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.96/Party-Games-v3.96.apk",
+  "latestCode": 113,
+  "latestName": "3.97",
+  "baseCode": 112,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v112-to-v113.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.97/v112-to-v113.patch",
+  "patchSize": 1052381,
+  "patchSha256": "c3ba9d41f46c8e78af8b761eadbab7ff6e5bdbf22d61b107b41a411c20570afc",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.97/Party-Games-v3.97.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.97/Party-Games-v3.97.apk",
   "apkSize": 43209848,
-  "apkSha256": "b94a04cdabdb7eae4f4bb9edd732390dcf1ede2153cc6f57b6335fbc1dd54bd4",
-  "notes": "Game Over screens cleaned up: less to read, tidier buttons"
+  "apkSha256": "5d9490e3ffa279e9c17f4f4727cdaaad740b6cd6452b201a6a4c77db0ce3d7da",
+  "notes": "Polish pass: easier-to-read headers, one tidy size and spacing system, bigger Remove tap target"
 }
