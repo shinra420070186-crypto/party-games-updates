@@ -1,14 +1,14 @@
 {
-  "latestCode": 116,
-  "latestName": "3.100",
-  "baseCode": 115,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v115-to-v116.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.100/v115-to-v116.patch",
-  "patchSize": 2213707,
-  "patchSha256": "924bc988176f80e5759a263a010a22e0acc99b56c19615b8bbcc348b3b20508c",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.100/Party-Games-v3.100.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.100/Party-Games-v3.100.apk",
-  "apkSize": 43484423,
-  "apkSha256": "5a6111566266497eca2878e60b939d659271514a54bb54494f4bda711d006e39",
-  "notes": "Back to the classic look \u2014 with a new home: a big auto-scrolling game hero, a games row, frosty search and profile buttons, and the pink button is now your update button."
+  "latestCode": 117,
+  "latestName": "3.101",
+  "baseCode": 116,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v116-to-v117.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.101/v116-to-v117.patch",
+  "patchSize": 1395345,
+  "patchSha256": "79691660507ebbbafff9a1f04e894e7d654e4fb7611f86e516560f01c5691a0b",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.101/Party-Games-v3.101.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.101/Party-Games-v3.101.apk",
+  "apkSize": 43537671,
+  "apkSha256": "fc30ad3cdf4ecca4c8ebe517c6c2dc3ff384ea7b8bf17c7cc382ce739e395dd8",
+  "notes": "Home fixes: search and profile now share one frosty pill, the hero fades between games with progress dots, and brand-new full-screen posters."
 }
