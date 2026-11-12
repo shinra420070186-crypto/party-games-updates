@@ -1,14 +1,14 @@
 {
-  "latestCode": 114,
-  "latestName": "3.98",
-  "baseCode": 113,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v113-to-v114.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.98/v113-to-v114.patch",
-  "patchSize": 1063270,
-  "patchSha256": "3da2d8a2e59bcc9600d67481df4223c851c260f4ce855edc8943406736a17e16",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.98/Party-Games-v3.98.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.98/Party-Games-v3.98.apk",
-  "apkSize": 43209848,
-  "apkSha256": "bf8c0eb5ace5dd0c0cd0b1150b64974e637ee4359ea82923494935e5b27c89e1",
-  "notes": "Room fix: if the host leaves mid-game the room now closes properly and you can start a fresh room right away \u2014 no app restart. Imposter rooms get the Lobby button too"
+  "latestCode": 115,
+  "latestName": "3.99",
+  "baseCode": 114,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v114-to-v115.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.99/v114-to-v115.patch",
+  "patchSize": 2190102,
+  "patchSha256": "cedc7b1e3f7631751aa8708ac4265a8e6e89d21618746f75d54c1ffc27c97680",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.99/Party-Games-v3.99.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.99/Party-Games-v3.99.apk",
+  "apkSize": 43201939,
+  "apkSha256": "cfb9102feeab29661c1462e7aa718ecaf2890e6de605f40d3281a83244dffa4a",
+  "notes": "New look! Party Games now wears the bright, bold poster style \u2014 a games feed home, big colourful posters for Imposter and Mafia, chunky buttons and cards everywhere. Same games, same rules."
 }
