@@ -1,14 +1,14 @@
 {
-  "latestCode": 118,
-  "latestName": "3.102",
-  "baseCode": 117,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v117-to-v118.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.102/v117-to-v118.patch",
-  "patchSize": 2319243,
-  "patchSha256": "9e36cdbaf4946fbd9dd81af4bdd9a0bab613f9c5c51905ba40134e7d9a730f4b",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.102/Party-Games-v3.102.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.102/Party-Games-v3.102.apk",
-  "apkSize": 44336391,
-  "apkSha256": "5ee4dbe3a28f08a6a0ddf33f1f3fec769984e14964011702f656a90e9e7b3a2d",
-  "notes": "Home polish: tidier poster titles, and the hero now follows your finger \u2014 drag it and the next game fades in. Plus a brand-new set of avatars."
+  "latestCode": 119,
+  "latestName": "3.103",
+  "baseCode": 118,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v118-to-v119.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.103/v118-to-v119.patch",
+  "patchSize": 1378291,
+  "patchSha256": "6436ed0f8cad9d5049959f33a1f69d5b0a02cc6db07d31d8d1796dacd1ed827a",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.103/Party-Games-v3.103.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.103/Party-Games-v3.103.apk",
+  "apkSize": 44340487,
+  "apkSha256": "5db687624ac2364ec73fb1c8d5df4bdf2ecfe22e0797f66f5858c44c0077c180",
+  "notes": "Poster titles in gold, like your picture \u2014 and tapping a game now opens it with a smooth rising transition."
 }
