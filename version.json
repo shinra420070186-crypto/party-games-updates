@@ -1,14 +1,14 @@
 {
-  "latestCode": 126,
+  "latestCode": 127,
   "latestName": "3.110",
-  "baseCode": 125,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v125-to-v126.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.110/v125-to-v126.patch",
-  "patchSize": 1092614,
-  "patchSha256": "ff6f912fd2a32601daddb1329e178912640fb452487b983f8e89d67ed3c73b92",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.110/Party-Games-v3.110.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.110/Party-Games-v3.110.apk",
-  "apkSize": 45675922,
-  "apkSha256": "88d00dd85408a5e8cd5b4aca32bfc90a37a70831d9a343ca0619de8a339d0707",
-  "notes": "Game cards reshaped \u2014 tall cards with rounded corners and a light rim, and the logos are part of the artwork now."
+  "baseCode": 126,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v126-to-v127.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.111/v126-to-v127.patch",
+  "patchSize": 1368705,
+  "patchSha256": "959dacf9be51796fefbb029214ba3f907b2e264348f3b1fb1f7a4a4310e6b499",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.111/Party-Games-v3.111.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.111/Party-Games-v3.111.apk",
+  "apkSize": 45970907,
+  "apkSha256": "82e2cf07f39c1054211307367c17d9a2b576c944a2510a51c6a7f8499e985633",
+  "notes": "The Mafia setup screen goes dark \u2014 neon city, dark glass card and rows, just like your design."
 }
