@@ -1,14 +1,14 @@
 {
-  "latestCode": 128,
-  "latestName": "3.112",
-  "baseCode": 127,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v127-to-v128.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.112/v127-to-v128.patch",
-  "patchSize": 1104383,
-  "patchSha256": "93a32570a77171646044bdf6ee67196ebe841c64c00c81eaa6a3cca815b69b97",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.112/Party-Games-v3.112.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.112/Party-Games-v3.112.apk",
+  "latestCode": 129,
+  "latestName": "3.113",
+  "baseCode": 128,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v128-to-v129.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.113/v128-to-v129.patch",
+  "patchSize": 1088832,
+  "patchSha256": "a05c85a6667ceaa6db64267e9608e80ed67e0c30c82bd84ac3c3f8a07eb48b77",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.113/Party-Games-v3.113.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.113/Party-Games-v3.113.apk",
   "apkSize": 45975003,
-  "apkSha256": "df55dbcc5807ba0d38ac096a349db20923cd2a582ea1f17dca3efc2d15c8f21d",
-  "notes": "The Mafia setup's glass is lighter and milkier now \u2014 the city glows through it, like your design."
+  "apkSha256": "0d9f90d5b213179ef84c2669d31b45e6caf6e24a6b798bf5d66ca9c85688015f",
+  "notes": "Smoother glass on the Mafia setup \u2014 real frosted blur now, no blocky pixels."
 }
