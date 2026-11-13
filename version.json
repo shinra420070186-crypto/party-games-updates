@@ -1,14 +1,14 @@
 {
-  "latestCode": 123,
-  "latestName": "3.107",
-  "baseCode": 122,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v122-to-v123.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.107/v122-to-v123.patch",
-  "patchSize": 1093119,
-  "patchSha256": "0f2e64fb591db1976bbebada10ea4465afaea05175f663739177f9edb56a74cb",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.107/Party-Games-v3.107.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.107/Party-Games-v3.107.apk",
+  "latestCode": 124,
+  "latestName": "3.108",
+  "baseCode": 123,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v123-to-v124.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.108/v123-to-v124.patch",
+  "patchSize": 1092053,
+  "patchSha256": "83e835e70acca3ac0ab7961bda7f0402b92e4cd958b178be81a12613af6d0163",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.108/Party-Games-v3.108.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.108/Party-Games-v3.108.apk",
   "apkSize": 45671826,
-  "apkSha256": "cdad29f28ca7fedbd6e00fc887f321c9c03b6fda3384a8306e0ae01c0f4131ab",
-  "notes": "The search pill is properly frosted now \u2014 dark smoky glass that takes the colour of the game behind it."
+  "apkSha256": "1122a68e656d1cf96ade3c08a94da0ee4af1877081b58fea898e819a635a5265",
+  "notes": "The frosty pill is live now \u2014 it blurs whatever is behind it as you scroll and as the games change."
 }
