@@ -1,14 +1,14 @@
 {
-  "latestCode": 133,
-  "latestName": "3.117",
-  "baseCode": 132,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v132-to-v133.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.117/v132-to-v133.patch",
-  "patchSize": 302509,
-  "patchSha256": "dd75a79a82aba78082b2075323a64d691149b2e1fc962d348d3d3b77811fb3a7",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.117/Party-Games-v3.117.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.117/Party-Games-v3.117.apk",
-  "apkSize": 45921755,
-  "apkSha256": "daa917e354dcb6fccb59d52bf9a54c494aaa8c70f9cdd1db9ace5bf284488eee",
-  "notes": "New Mafia city background."
+  "latestCode": 134,
+  "latestName": "3.118",
+  "baseCode": 133,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v133-to-v134.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.118/v133-to-v134.patch",
+  "patchSize": 932682,
+  "patchSha256": "656a86ddb1d54897b771fdfcbd35c65e9807a4b39639b2487ef8b35f541a79d3",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.118/Party-Games-v3.118.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.118/Party-Games-v3.118.apk",
+  "apkSize": 46454235,
+  "apkSha256": "8f475bf3613f8873ef9d46a6572a3f108db2b0857ecf90f264acf601c2058567",
+  "notes": "Same street, day and night: new Mafia backgrounds \u2014 neon city at night, golden morning for day and voting."
 }
