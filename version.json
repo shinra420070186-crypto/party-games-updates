@@ -1,14 +1,14 @@
 {
-  "latestCode": 130,
-  "latestName": "3.114",
-  "baseCode": 129,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v129-to-v130.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.114/v129-to-v130.patch",
-  "patchSize": 1069631,
-  "patchSha256": "7116968c58a3f23e9b237c314b88b7b817f7a15bcbe96f085cdca747cab01a9d",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.114/Party-Games-v3.114.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.114/Party-Games-v3.114.apk",
-  "apkSize": 45975003,
-  "apkSha256": "5205dc55c3f0c8e32409251d472f9a082280d690c52e694c88b840c067adbe07",
-  "notes": "Stronger glass on the Mafia setup \u2014 deeper frost, brighter rims."
+  "latestCode": 131,
+  "latestName": "3.115",
+  "baseCode": 130,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v130-to-v131.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.115/v130-to-v131.patch",
+  "patchSize": 3087586,
+  "patchSha256": "e15b8cf32bf6a9d5f2298dbd30a05dfb0d1b90bee444c49dc8ba5526f6dc8281",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.115/Party-Games-v3.115.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.115/Party-Games-v3.115.apk",
+  "apkSize": 47950331,
+  "apkSha256": "43c68baa4fb13e8ed17eea0aa6fc7d0b0396581923e918dac2e837e4db925522",
+  "notes": "New Mafia reveal: drag your card up to see your role \u2014 a different character cover every time."
 }
