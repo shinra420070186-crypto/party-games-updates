@@ -1,14 +1,14 @@
 {
-  "latestCode": 135,
-  "latestName": "3.119",
-  "baseCode": 134,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v134-to-v135.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.119/v134-to-v135.patch",
-  "patchSize": 1779968,
-  "patchSha256": "787102d06b448870741731da7b885477ffb149e2636a8b3541d9922c2a3c394a",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.119/Party-Games-v3.119.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.119/Party-Games-v3.119.apk",
+  "latestCode": 136,
+  "latestName": "3.120",
+  "baseCode": 135,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v135-to-v136.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.120/v135-to-v136.patch",
+  "patchSize": 1084635,
+  "patchSha256": "9793b8da5d703a8d18fc31058dff2f41381a2f9a27d0603a0236e5939aab244a",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.120/Party-Games-v3.120.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.120/Party-Games-v3.120.apk",
   "apkSize": 47134241,
-  "apkSha256": "7c40bff5baa720358d11318daa6ef46acee51ce46e99b306fae8398da9a53003",
-  "notes": "Mafia backgrounds follow the day: golden for role reveals, neon city at night, bright midday for morning and voting."
+  "apkSha256": "5d83be27a4ec504f400654db74a1405a4a9bb818f159c39a9e6f25c5b8259ceb",
+  "notes": "Fix: morning and verdict text now sits on a dark panel \u2014 readable on the bright day street."
 }
