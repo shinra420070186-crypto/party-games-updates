@@ -1,14 +1,14 @@
 {
-  "latestCode": 132,
-  "latestName": "3.116",
-  "baseCode": 131,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v131-to-v132.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.116/v131-to-v132.patch",
-  "patchSize": 1107122,
-  "patchSha256": "837ae7453a860c2e6813f9dc09f6b4de8141340e918665155266bbd45d05c395",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.116/Party-Games-v3.116.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.116/Party-Games-v3.116.apk",
-  "apkSize": 45975003,
-  "apkSha256": "004c63dc85b74e18fdab51e3bc7490c90b47e9aef386c21a622ebfb542cfd018",
-  "notes": "Back to the classic flip reveal \u2014 press and hold, like before."
+  "latestCode": 133,
+  "latestName": "3.117",
+  "baseCode": 132,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v132-to-v133.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.117/v132-to-v133.patch",
+  "patchSize": 302509,
+  "patchSha256": "dd75a79a82aba78082b2075323a64d691149b2e1fc962d348d3d3b77811fb3a7",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.117/Party-Games-v3.117.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.117/Party-Games-v3.117.apk",
+  "apkSize": 45921755,
+  "apkSha256": "daa917e354dcb6fccb59d52bf9a54c494aaa8c70f9cdd1db9ace5bf284488eee",
+  "notes": "New Mafia city background."
 }
