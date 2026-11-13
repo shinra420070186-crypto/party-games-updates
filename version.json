@@ -1,14 +1,14 @@
 {
-  "latestCode": 125,
-  "latestName": "3.109",
-  "baseCode": 124,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v124-to-v125.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.109/v124-to-v125.patch",
-  "patchSize": 1082327,
-  "patchSha256": "2acef46a1440c196da978923a1164710a79ac0347ace4ff57f6def843673248b",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.109/Party-Games-v3.109.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.109/Party-Games-v3.109.apk",
-  "apkSize": 45671826,
-  "apkSha256": "276e4d6aff179123d513d37ed6eeb6809085d239546ab9031ccdb3564db7b637",
-  "notes": "Cleaner game cards \u2014 just the artwork and its logo, no text underneath. And the home background is pitch black now."
+  "latestCode": 126,
+  "latestName": "3.110",
+  "baseCode": 125,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v125-to-v126.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.110/v125-to-v126.patch",
+  "patchSize": 1092614,
+  "patchSha256": "ff6f912fd2a32601daddb1329e178912640fb452487b983f8e89d67ed3c73b92",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.110/Party-Games-v3.110.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.110/Party-Games-v3.110.apk",
+  "apkSize": 45675922,
+  "apkSha256": "88d00dd85408a5e8cd5b4aca32bfc90a37a70831d9a343ca0619de8a339d0707",
+  "notes": "Game cards reshaped \u2014 tall cards with rounded corners and a light rim, and the logos are part of the artwork now."
 }
