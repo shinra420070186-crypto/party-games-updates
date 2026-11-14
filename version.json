@@ -1,14 +1,14 @@
 {
-  "latestCode": 138,
-  "latestName": "3.122",
-  "baseCode": 137,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v137-to-v138.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.122/v137-to-v138.patch",
-  "patchSize": 1104449,
-  "patchSha256": "b405bc80f1acaed3b6264046c15981abd2fabdfd75f7c6caaf4422a09e405383",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.122/Party-Games-v3.122.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.122/Party-Games-v3.122.apk",
-  "apkSize": 45285597,
-  "apkSha256": "c6a4ff9d2b1c9e0b0a9c771e15600c4c8dbb16f055cc038a27115e32e08bc210",
-  "notes": "The card you hold to reveal now wears dark Noir Glass in Mafia \u2014 pass & play and rooms. Your character cards are unchanged."
+  "latestCode": 139,
+  "latestName": "3.123",
+  "baseCode": 138,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v138-to-v139.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.123/v138-to-v139.patch",
+  "patchSize": 1102017,
+  "patchSha256": "86ddd60d7df0fe28d78dfba528da1a26010b17f64f67b1750743a47aa9da5ca1",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.123/Party-Games-v3.123.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.123/Party-Games-v3.123.apk",
+  "apkSize": 45289693,
+  "apkSha256": "a910e310ee0f3e81c644394bad529e14960544205fc0fe4d3f8b46ab8460ecc9",
+  "notes": "Bigger reveal card in Mafia \u2014 it now sits right on the street, with no backing card. Home: after you swipe the banner yourself, it rests a few seconds before sliding on."
 }
