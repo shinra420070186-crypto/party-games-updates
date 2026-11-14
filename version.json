@@ -1,14 +1,14 @@
 {
-  "latestCode": 139,
-  "latestName": "3.123",
-  "baseCode": 138,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v138-to-v139.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.123/v138-to-v139.patch",
-  "patchSize": 1102017,
-  "patchSha256": "86ddd60d7df0fe28d78dfba528da1a26010b17f64f67b1750743a47aa9da5ca1",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.123/Party-Games-v3.123.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.123/Party-Games-v3.123.apk",
+  "latestCode": 140,
+  "latestName": "3.124",
+  "baseCode": 139,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v139-to-v140.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.124/v139-to-v140.patch",
+  "patchSize": 1112031,
+  "patchSha256": "5a967ce24b52e6ca076d417bb4f90043ca2f833de7a8e21386466a4e47d18f5d",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.124/Party-Games-v3.124.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.124/Party-Games-v3.124.apk",
   "apkSize": 45289693,
-  "apkSha256": "a910e310ee0f3e81c644394bad529e14960544205fc0fe4d3f8b46ab8460ecc9",
-  "notes": "Bigger reveal card in Mafia \u2014 it now sits right on the street, with no backing card. Home: after you swipe the banner yourself, it rests a few seconds before sliding on."
+  "apkSha256": "ccf0d02b7ddf8a6cd2de3f176b10e9ff5a386bae4cb35797f66d6034ca67bc4d",
+  "notes": "The reveal card's glass is now live \u2014 it reflects the street behind it as the card moves. Tapping a game in Your Games now opens it without the logo flight (the hero still flies)."
 }
