@@ -1,14 +1,14 @@
 {
-  "latestCode": 137,
-  "latestName": "3.121",
-  "baseCode": 136,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v136-to-v137.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.121/v136-to-v137.patch",
-  "patchSize": 1102181,
-  "patchSha256": "1edd5b1c6bef6b65b9a5bb33b7ac2502706f6533302dae6396bc26a8a40b9596",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.121/Party-Games-v3.121.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.121/Party-Games-v3.121.apk",
+  "latestCode": 138,
+  "latestName": "3.122",
+  "baseCode": 137,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v137-to-v138.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.122/v137-to-v138.patch",
+  "patchSize": 1104449,
+  "patchSha256": "b405bc80f1acaed3b6264046c15981abd2fabdfd75f7c6caaf4422a09e405383",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.122/Party-Games-v3.122.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.122/Party-Games-v3.122.apk",
   "apkSize": 45285597,
-  "apkSha256": "478708de3da354f5fabf777ed7c30189bf9266608702b717fd08c4a5d139e1c1",
-  "notes": "Housekeeping: removed about 2 MB of old unused art and files from the app. Nothing in the game changes \u2014 same screens, same rules, same rooms."
+  "apkSha256": "c6a4ff9d2b1c9e0b0a9c771e15600c4c8dbb16f055cc038a27115e32e08bc210",
+  "notes": "The card you hold to reveal now wears dark Noir Glass in Mafia \u2014 pass & play and rooms. Your character cards are unchanged."
 }
