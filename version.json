@@ -1,14 +1,14 @@
 {
-  "latestCode": 136,
-  "latestName": "3.120",
-  "baseCode": 135,
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v135-to-v136.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.120/v135-to-v136.patch",
-  "patchSize": 1084635,
-  "patchSha256": "9793b8da5d703a8d18fc31058dff2f41381a2f9a27d0603a0236e5939aab244a",
-  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.120/Party-Games-v3.120.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.120/Party-Games-v3.120.apk",
-  "apkSize": 47134241,
-  "apkSha256": "5d83be27a4ec504f400654db74a1405a4a9bb818f159c39a9e6f25c5b8259ceb",
-  "notes": "Fix: morning and verdict text now sits on a dark panel \u2014 readable on the bright day street."
+  "latestCode": 137,
+  "latestName": "3.121",
+  "baseCode": 136,
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/party-games-updates/main/patches/v136-to-v137.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.121/v136-to-v137.patch",
+  "patchSize": 1102181,
+  "patchSha256": "1edd5b1c6bef6b65b9a5bb33b7ac2502706f6533302dae6396bc26a8a40b9596",
+  "apkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.121/Party-Games-v3.121.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/party-games-updates/releases/download/v3.121/Party-Games-v3.121.apk",
+  "apkSize": 45285597,
+  "apkSha256": "478708de3da354f5fabf777ed7c30189bf9266608702b717fd08c4a5d139e1c1",
+  "notes": "Housekeeping: removed about 2 MB of old unused art and files from the app. Nothing in the game changes \u2014 same screens, same rules, same rooms."
 }
